@@ -22,9 +22,4 @@
 - Q-群（副）：32782385
 
 
-###  🦴打赏功能
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benn)
 
-| Paypal | Wechat Pay | Ali Pay |
-| --- | --- | --- |
-| <img src="./Pictures/paypal.jpg" height="240" />| <img src="./Pictures/wechatpay.jpg" height="240" /> | <img src="./Pictures/alipay.jpg" height="240" /> |
